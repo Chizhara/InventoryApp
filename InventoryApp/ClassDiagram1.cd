@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="InventoryApp.Inventory.Equipment.HourseEquip" BaseTypeListCollapsed="true">
+    <Position X="11.25" Y="6.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BAEAAAAAAAAAAAQAAAAAAAQAAAAAAAAEAAAAAEAAAAA=</HashCode>
+      <FileName>Inventory\Equipment\HourseEquip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryApp.Inventory.Equipment.PersonEquip" BaseTypeListCollapsed="true">
+    <Position X="9" Y="6.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BAEAAAAAAAAAAIAAAAABAAQAAAAAAAAEQAAAAEAEAAA=</HashCode>
+      <FileName>Inventory\Equipment\PersonEquip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryApp.Inventory.Inventory">
+    <Position X="6.25" Y="5.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAQAgAAAAAAAACAAAAAAACA=</HashCode>
+      <FileName>Inventory\Inventory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryApp.Items.GameItem" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Items\GameItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryApp.Items.Wear.Armor">
+    <Position X="4.5" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Items\Wear\Armor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="InventoryApp.Items.Wear.CaseWear">
+    <Position X="6.75" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Items\Wear\CaseWear.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="InventoryApp.Program">
+    <Position X="2.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryApp.Inventory.Equipment.Equip">
+    <Position X="10.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAEAAAAAAAAAAAAAAAAAAAQAAAAAAAAEAAAAAEAAACA=</HashCode>
+      <FileName>Inventory\Equipment\Equip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryApp.Inventory.InventorySlots">
+    <Position X="7.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAIAAAAAAAAAAgAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Inventory\InventorySlots.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryApp.Inventory.InventoryWeight">
+    <Position X="4.5" Y="8.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAgAACAAAAACAQAAAAAAA=</HashCode>
+      <FileName>Inventory\InventoryWeight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="InventoryApp.Items.Wear.IWear">
+    <Position X="2.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Items\Wear\IWear.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="InventoryApp.Items.Wear.WearTypeEnum">
+    <Position X="2" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAABAAAAAAQAAAAAQAAAAAEEAAA=</HashCode>
+      <FileName>Items\Wear\IWear.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="InventoryApp.Inventory.EquipTypeEnum" Collapsed="true">
+    <Position X="19.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAABAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Inventory\Inventory.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
