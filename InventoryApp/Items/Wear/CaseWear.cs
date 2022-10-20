@@ -14,7 +14,7 @@ namespace InventoryApp.Items.Wear
             : base(name, weight)
         {
             if (additionalWeight < 0)
-                throw new AggregateException("Дополнительный вес не может быть отрицательным");
+                throw new Exception("Дополнительный вес не может быть отрицательным");
 
             WearType = wearType;
             AdditionalWeight = additionalWeight;

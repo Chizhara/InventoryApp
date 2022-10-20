@@ -14,7 +14,7 @@ namespace InventoryApp.Items.Wear
             : base(name, weight) 
         {
             if (defensePoints < 0)
-                throw new AggregateException("Очки брони не могут быть отрицательным значением");
+                throw new Exception("Очки брони не могут быть отрицательным значением");
 
             WearType = wearType;
             DefensePoints = defensePoints;

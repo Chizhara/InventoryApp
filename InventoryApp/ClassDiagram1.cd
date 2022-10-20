@@ -22,7 +22,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="InventoryApp.Items.GameItem" Collapsed="true">
-    <Position X="6" Y="1.5" Width="1.5" />
+    <Position X="5.25" Y="1.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAACAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Items\GameItem.cs</FileName>
